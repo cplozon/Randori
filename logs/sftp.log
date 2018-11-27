@@ -1,0 +1,419 @@
+Nov 12 17:53:08 10.71.54.2 u67821342-cory Connection from 10.71.54.2 port 19204 on 74.208.59.1 port 22
+Nov 12 17:53:09 10.71.54.2 u67821342-cory Failed publickey for u67821342-cory from 10.71.54.2 port 19204 ssh2: RSA 25:94:e6:db:76:e9:c5:00:b6:9b:8d:1c:06:e4:f9:0c
+Nov 12 17:53:09 10.71.54.2 u67821342-cory Accepted password for u67821342-cory from 10.71.54.2 port 19204 ssh2
+Nov 12 17:53:09 10.71.54.2 u67821342-cory Starting session: subsystem 'sftp' for u67821342-cory from 10.71.54.2 port 19204
+Nov 12 17:53:09 10.71.54.2 u67821342-cory session opened for local user u67821342-cory from [10.71.54.2]
+Nov 12 17:54:25 10.71.54.2 u67821342-cory Connection from 10.71.54.2 port 12968 on 74.208.59.1 port 22
+Nov 12 17:54:26 10.71.54.2 u67821342-cory Failed publickey for u67821342-cory from 10.71.54.2 port 12968 ssh2: RSA 25:94:e6:db:76:e9:c5:00:b6:9b:8d:1c:06:e4:f9:0c
+Nov 12 17:54:26 10.71.54.2 u67821342-cory Accepted password for u67821342-cory from 10.71.54.2 port 12968 ssh2
+Nov 12 17:54:26 10.71.54.2 u67821342-cory Starting session: subsystem 'sftp' for u67821342-cory from 10.71.54.2 port 12968
+Nov 12 17:54:27 10.71.54.2 u67821342-cory session opened for local user u67821342-cory from [10.71.54.2]
+Nov 12 17:55:44 10.71.54.2 u67821342-cory Connection closed by 10.71.54.2
+Nov 12 17:55:44 10.71.54.2 u67821342-cory session closed for local user u67821342-cory from [10.71.54.2]
+Nov 12 18:05:58 10.71.54.2 u67821342-cory Connection from 10.71.54.2 port 59302 on 74.208.59.1 port 22
+Nov 12 18:05:59 10.71.54.2 u67821342-cory Failed publickey for u67821342-cory from 10.71.54.2 port 59302 ssh2: RSA 25:94:e6:db:76:e9:c5:00:b6:9b:8d:1c:06:e4:f9:0c
+Nov 12 18:05:59 10.71.54.2 u67821342-cory Accepted password for u67821342-cory from 10.71.54.2 port 59302 ssh2
+Nov 12 18:06:00 10.71.54.2 u67821342-cory Starting session: subsystem 'sftp' for u67821342-cory from 10.71.54.2 port 59302
+Nov 12 18:06:00 10.71.54.2 u67821342-cory session opened for local user u67821342-cory from [10.71.54.2]
+Nov 12 18:06:00 10.71.54.2 u67821342-cory open "/sportmassage.html" flags READ mode 0666
+Nov 12 18:06:00 10.71.54.2 u67821342-cory close "/sportmassage.html" bytes read 13619 written 0
+Nov 12 18:06:00 10.71.54.2 u67821342-cory [10.71.54.2|get|0|13619|0|0|0|2f73706f72746d6173736167652e68746d6c|]
+Nov 12 18:06:50 10.71.54.2 u67821342-cory open "/sitemap.xml" flags READ mode 0666
+Nov 12 18:06:50 10.71.54.2 u67821342-cory close "/sitemap.xml" bytes read 1408 written 0
+Nov 12 18:06:50 10.71.54.2 u67821342-cory [10.71.54.2|get|0|1408|0|0|0|2f736974656d61702e786d6c|]
+Nov 12 18:07:41 10.71.54.2 u67821342-cory open "/sitemap.html" flags READ mode 0666
+Nov 12 18:07:42 10.71.54.2 u67821342-cory close "/sitemap.html" bytes read 10580 written 0
+Nov 12 18:07:42 10.71.54.2 u67821342-cory [10.71.54.2|get|1|10580|0|0|0|2f736974656d61702e68746d6c|]
+Nov 12 18:07:47 10.71.54.2 u67821342-cory open "/schedule.html" flags READ mode 0666
+Nov 12 18:07:47 10.71.54.2 u67821342-cory close "/schedule.html" bytes read 12153 written 0
+Nov 12 18:07:47 10.71.54.2 u67821342-cory [10.71.54.2|get|0|12153|0|0|0|2f7363686564756c652e68746d6c|]
+Nov 12 18:07:53 10.71.54.2 u67821342-cory open "/robots.txt" flags READ mode 0666
+Nov 12 18:07:53 10.71.54.2 u67821342-cory close "/robots.txt" bytes read 80 written 0
+Nov 12 18:07:53 10.71.54.2 u67821342-cory [10.71.54.2|get|0|80|0|0|0|2f726f626f74732e747874|]
+Nov 12 18:07:59 10.71.54.2 u67821342-cory open "/prepros-6.config" flags READ mode 0666
+Nov 12 18:08:00 10.71.54.2 u67821342-cory close "/prepros-6.config" bytes read 13865 written 0
+Nov 12 18:08:00 10.71.54.2 u67821342-cory [10.71.54.2|get|1|13865|0|0|0|2f70726570726f732d362e636f6e666967|]
+Nov 12 18:08:03 10.71.54.2 u67821342-cory open "/ms-icon-70x70.png" flags READ mode 0666
+Nov 12 18:08:03 10.71.54.2 u67821342-cory close "/ms-icon-70x70.png" bytes read 3378 written 0
+Nov 12 18:08:03 10.71.54.2 u67821342-cory [10.71.54.2|get|0|3378|0|0|0|2f6d732d69636f6e2d37307837302e706e67|]
+Nov 12 18:08:06 10.71.54.2 u67821342-cory open "/ms-icon-310x310.png" flags READ mode 0666
+Nov 12 18:08:06 10.71.54.2 u67821342-cory close "/ms-icon-310x310.png" bytes read 24611 written 0
+Nov 12 18:08:06 10.71.54.2 u67821342-cory [10.71.54.2|get|0|24611|0|0|0|2f6d732d69636f6e2d333130783331302e706e67|]
+Nov 12 18:08:09 10.71.54.2 u67821342-cory open "/ms-icon-150x150.png" flags READ mode 0666
+Nov 12 18:08:10 10.71.54.2 u67821342-cory close "/ms-icon-150x150.png" bytes read 7757 written 0
+Nov 12 18:08:10 10.71.54.2 u67821342-cory [10.71.54.2|get|1|7757|0|0|0|2f6d732d69636f6e2d313530783135302e706e67|]
+Nov 12 18:08:13 10.71.54.2 u67821342-cory open "/ms-icon-144x144.png" flags READ mode 0666
+Nov 12 18:08:13 10.71.54.2 u67821342-cory close "/ms-icon-144x144.png" bytes read 7318 written 0
+Nov 12 18:08:13 10.71.54.2 u67821342-cory [10.71.54.2|get|0|7318|0|0|0|2f6d732d69636f6e2d313434783134342e706e67|]
+Nov 12 18:09:13 10.71.54.2 u67821342-cory Connection closed by 10.71.54.2
+Nov 12 18:09:13 10.71.54.2 u67821342-cory session closed for local user u67821342-cory from [10.71.54.2]
+Nov 12 18:10:05 10.71.54.2 u67821342-cory Connection from 10.71.54.2 port 57800 on 74.208.59.1 port 22
+Nov 12 18:10:06 10.71.54.2 u67821342-cory Failed publickey for u67821342-cory from 10.71.54.2 port 57800 ssh2: RSA 25:94:e6:db:76:e9:c5:00:b6:9b:8d:1c:06:e4:f9:0c
+Nov 12 18:10:06 10.71.54.2 u67821342-cory Accepted password for u67821342-cory from 10.71.54.2 port 57800 ssh2
+Nov 12 18:10:06 10.71.54.2 u67821342-cory Starting session: subsystem 'sftp' for u67821342-cory from 10.71.54.2 port 57800
+Nov 12 18:10:06 10.71.54.2 u67821342-cory session opened for local user u67821342-cory from [10.71.54.2]
+Nov 12 18:10:06 10.71.54.2 u67821342-cory open "/index.html" flags READ mode 0666
+Nov 12 18:10:07 10.71.54.2 u67821342-cory close "/index.html" bytes read 18921 written 0
+Nov 12 18:10:07 10.71.54.2 u67821342-cory [10.71.54.2|get|1|18921|0|0|0|2f696e6465782e68746d6c|]
+Nov 12 18:10:07 10.71.54.2 u67821342-cory open "/google616d9c86bd505c30.html" flags READ mode 0666
+Nov 12 18:10:08 10.71.54.2 u67821342-cory close "/google616d9c86bd505c30.html" bytes read 53 written 0
+Nov 12 18:10:08 10.71.54.2 u67821342-cory [10.71.54.2|get|1|53|0|0|0|2f676f6f676c65363136643963383662643530356333302e68746d6c|]
+Nov 12 18:10:10 10.71.54.2 u67821342-cory open "/favicon.ico" flags READ mode 0666
+Nov 12 18:10:10 10.71.54.2 u67821342-cory close "/favicon.ico" bytes read 1150 written 0
+Nov 12 18:10:10 10.71.54.2 u67821342-cory [10.71.54.2|get|0|1150|0|0|0|2f66617669636f6e2e69636f|]
+Nov 12 18:10:12 10.71.54.2 u67821342-cory open "/favicon-96x96.png" flags READ mode 0666
+Nov 12 18:10:12 10.71.54.2 u67821342-cory close "/favicon-96x96.png" bytes read 4471 written 0
+Nov 12 18:10:12 10.71.54.2 u67821342-cory [10.71.54.2|get|0|4471|0|0|0|2f66617669636f6e2d39367839362e706e67|]
+Nov 12 18:10:15 10.71.54.2 u67821342-cory open "/favicon-32x32.png" flags READ mode 0666
+Nov 12 18:10:15 10.71.54.2 u67821342-cory close "/favicon-32x32.png" bytes read 1818 written 0
+Nov 12 18:10:15 10.71.54.2 u67821342-cory [10.71.54.2|get|0|1818|0|0|0|2f66617669636f6e2d33327833322e706e67|]
+Nov 12 18:10:17 10.71.54.2 u67821342-cory open "/favicon-16x16.png" flags READ mode 0666
+Nov 12 18:10:17 10.71.54.2 u67821342-cory close "/favicon-16x16.png" bytes read 1159 written 0
+Nov 12 18:10:17 10.71.54.2 u67821342-cory [10.71.54.2|get|0|1159|0|0|0|2f66617669636f6e2d31367831362e706e67|]
+Nov 12 18:10:20 10.71.54.2 u67821342-cory open "/durham.html" flags READ mode 0666
+Nov 12 18:10:20 10.71.54.2 u67821342-cory close "/durham.html" bytes read 12250 written 0
+Nov 12 18:10:20 10.71.54.2 u67821342-cory [10.71.54.2|get|0|12250|0|0|0|2f64757268616d2e68746d6c|]
+Nov 12 18:10:23 10.71.54.2 u67821342-cory open "/contact.html" flags READ mode 0666
+Nov 12 18:10:23 10.71.54.2 u67821342-cory close "/contact.html" bytes read 9735 written 0
+Nov 12 18:10:23 10.71.54.2 u67821342-cory [10.71.54.2|get|0|9735|0|0|0|2f636f6e746163742e68746d6c|]
+Nov 12 18:10:26 10.71.54.2 u67821342-cory open "/chapelhill.html" flags READ mode 0666
+Nov 12 18:10:26 10.71.54.2 u67821342-cory close "/chapelhill.html" bytes read 12164 written 0
+Nov 12 18:10:26 10.71.54.2 u67821342-cory [10.71.54.2|get|0|12164|0|0|0|2f63686170656c68696c6c2e68746d6c|]
+Nov 12 18:10:29 10.71.54.2 u67821342-cory open "/apple-icon.png" flags READ mode 0666
+Nov 12 18:10:30 10.71.54.2 u67821342-cory close "/apple-icon.png" bytes read 9448 written 0
+Nov 12 18:10:30 10.71.54.2 u67821342-cory [10.71.54.2|get|1|9448|0|0|0|2f6170706c652d69636f6e2e706e67|]
+Nov 12 18:10:32 10.71.54.2 u67821342-cory open "/apple-icon-precomposed.png" flags READ mode 0666
+Nov 12 18:10:33 10.71.54.2 u67821342-cory close "/apple-icon-precomposed.png" bytes read 9448 written 0
+Nov 12 18:10:33 10.71.54.2 u67821342-cory [10.71.54.2|get|1|9448|0|0|0|2f6170706c652d69636f6e2d707265636f6d706f7365642e706e67|]
+Nov 12 18:10:35 10.71.54.2 u67821342-cory open "/apple-icon-76x76-precomposed.png" flags READ mode 0666
+Nov 12 18:10:35 10.71.54.2 u67821342-cory close "/apple-icon-76x76-precomposed.png" bytes read 3643 written 0
+Nov 12 18:10:35 10.71.54.2 u67821342-cory [10.71.54.2|get|0|3643|0|0|0|2f6170706c652d69636f6e2d37367837362d707265636f6d706f7365642e706e67|]
+Nov 12 18:10:44 10.71.54.2 u67821342-cory open "/apple-icon-72x72-precomposed.png" flags READ mode 0666
+Nov 12 18:10:44 10.71.54.2 u67821342-cory close "/apple-icon-72x72-precomposed.png" bytes read 3473 written 0
+Nov 12 18:10:44 10.71.54.2 u67821342-cory [10.71.54.2|get|0|3473|0|0|0|2f6170706c652d69636f6e2d37327837322d707265636f6d706f7365642e706e67|]
+Nov 12 18:10:46 10.71.54.2 u67821342-cory open "/apple-icon-60x60-precomposed.png" flags READ mode 0666
+Nov 12 18:10:46 10.71.54.2 u67821342-cory close "/apple-icon-60x60-precomposed.png" bytes read 2971 written 0
+Nov 12 18:10:46 10.71.54.2 u67821342-cory [10.71.54.2|get|0|2971|0|0|0|2f6170706c652d69636f6e2d36307836302d707265636f6d706f7365642e706e67|]
+Nov 12 18:10:48 10.71.54.2 u67821342-cory open "/apple-icon-57x57-precomposed.png" flags READ mode 0666
+Nov 12 18:10:48 10.71.54.2 u67821342-cory close "/apple-icon-57x57-precomposed.png" bytes read 2801 written 0
+Nov 12 18:10:48 10.71.54.2 u67821342-cory [10.71.54.2|get|0|2801|0|0|0|2f6170706c652d69636f6e2d35377835372d707265636f6d706f7365642e706e67|]
+Nov 12 18:10:50 10.71.54.2 u67821342-cory open "/apple-icon-180x180-precomposed.png" flags READ mode 0666
+Nov 12 18:10:51 10.71.54.2 u67821342-cory close "/apple-icon-180x180-precomposed.png" bytes read 10097 written 0
+Nov 12 18:10:51 10.71.54.2 u67821342-cory [10.71.54.2|get|1|10097|0|0|0|2f6170706c652d69636f6e2d313830783138302d707265636f6d706f7365642e706e67|]
+Nov 12 18:10:55 10.71.54.2 u67821342-cory open "/apple-icon-152x152-precomposed.png" flags READ mode 0666
+Nov 12 18:10:55 10.71.54.2 u67821342-cory close "/apple-icon-152x152-precomposed.png" bytes read 7922 written 0
+Nov 12 18:10:55 10.71.54.2 u67821342-cory [10.71.54.2|get|0|7922|0|0|0|2f6170706c652d69636f6e2d313532783135322d707265636f6d706f7365642e706e67|]
+Nov 12 18:10:57 10.71.54.2 u67821342-cory open "/apple-icon-144x144-precomposed.png" flags READ mode 0666
+Nov 12 18:10:57 10.71.54.2 u67821342-cory close "/apple-icon-144x144-precomposed.png" bytes read 7318 written 0
+Nov 12 18:10:57 10.71.54.2 u67821342-cory [10.71.54.2|get|0|7318|0|0|0|2f6170706c652d69636f6e2d313434783134342d707265636f6d706f7365642e706e67|]
+Nov 12 18:10:59 10.71.54.2 u67821342-cory open "/apple-icon-120x120-precomposed.png" flags READ mode 0666
+Nov 12 18:10:59 10.71.54.2 u67821342-cory close "/apple-icon-120x120-precomposed.png" bytes read 5718 written 0
+Nov 12 18:10:59 10.71.54.2 u67821342-cory [10.71.54.2|get|0|5718|0|0|0|2f6170706c652d69636f6e2d313230783132302d707265636f6d706f7365642e706e67|]
+Nov 12 18:11:02 10.71.54.2 u67821342-cory open "/apple-icon-114x114-precomposed.png" flags READ mode 0666
+Nov 12 18:11:02 10.71.54.2 u67821342-cory close "/apple-icon-114x114-precomposed.png" bytes read 5428 written 0
+Nov 12 18:11:02 10.71.54.2 u67821342-cory [10.71.54.2|get|0|5428|0|0|0|2f6170706c652d69636f6e2d313134783131342d707265636f6d706f7365642e706e67|]
+Nov 12 18:12:06 10.71.54.2 u67821342-cory session closed for local user u67821342-cory from [10.71.54.2]
+Nov 12 18:12:06 10.71.54.2 u67821342-cory Connection closed by 10.71.54.2
+Nov 12 18:45:58 10.71.54.2 u67821342-cory Connection from 10.71.54.2 port 39806 on 74.208.59.1 port 22
+Nov 12 18:45:59 10.71.54.2 u67821342-cory Failed publickey for u67821342-cory from 10.71.54.2 port 39806 ssh2: RSA 25:94:e6:db:76:e9:c5:00:b6:9b:8d:1c:06:e4:f9:0c
+Nov 12 18:45:59 10.71.54.2 u67821342-cory Accepted password for u67821342-cory from 10.71.54.2 port 39806 ssh2
+Nov 12 18:45:59 10.71.54.2 u67821342-cory Starting session: subsystem 'sftp' for u67821342-cory from 10.71.54.2 port 39806
+Nov 12 18:45:59 10.71.54.2 u67821342-cory session opened for local user u67821342-cory from [10.71.54.2]
+Nov 12 18:46:00 10.71.54.2 u67821342-cory open "/android-icon-96x96.png" flags READ mode 0666
+Nov 12 18:46:00 10.71.54.2 u67821342-cory close "/android-icon-96x96.png" bytes read 4471 written 0
+Nov 12 18:46:00 10.71.54.2 u67821342-cory [10.71.54.2|get|0|4471|0|0|0|2f616e64726f69642d69636f6e2d39367839362e706e67|]
+Nov 12 18:46:00 10.71.54.2 u67821342-cory Connection from 10.71.54.2 port 41134 on 74.208.59.1 port 22
+Nov 12 18:46:01 10.71.54.2 u67821342-cory Failed publickey for u67821342-cory from 10.71.54.2 port 41134 ssh2: RSA 25:94:e6:db:76:e9:c5:00:b6:9b:8d:1c:06:e4:f9:0c
+Nov 12 18:46:01 10.71.54.2 u67821342-cory Accepted password for u67821342-cory from 10.71.54.2 port 41134 ssh2
+Nov 12 18:46:02 10.71.54.2 u67821342-cory Starting session: subsystem 'sftp' for u67821342-cory from 10.71.54.2 port 41134
+Nov 12 18:46:02 10.71.54.2 u67821342-cory session opened for local user u67821342-cory from [10.71.54.2]
+Nov 12 18:46:02 10.71.54.2 u67821342-cory open "/android-icon-72x72.png" flags READ mode 0666
+Nov 12 18:46:02 10.71.54.2 u67821342-cory close "/android-icon-72x72.png" bytes read 3473 written 0
+Nov 12 18:46:02 10.71.54.2 u67821342-cory [10.71.54.2|get|0|3473|0|0|0|2f616e64726f69642d69636f6e2d37327837322e706e67|]
+Nov 12 18:46:02 10.71.54.2 u67821342-cory open "/android-icon-48x48.png" flags READ mode 0666
+Nov 12 18:46:03 10.71.54.2 u67821342-cory close "/android-icon-48x48.png" bytes read 2531 written 0
+Nov 12 18:46:03 10.71.54.2 u67821342-cory [10.71.54.2|get|1|2531|0|0|0|2f616e64726f69642d69636f6e2d34387834382e706e67|]
+Nov 12 18:46:04 10.71.54.2 u67821342-cory open "/android-icon-36x36.png" flags READ mode 0666
+Nov 12 18:46:05 10.71.54.2 u67821342-cory close "/android-icon-36x36.png" bytes read 1928 written 0
+Nov 12 18:46:05 10.71.54.2 u67821342-cory [10.71.54.2|get|1|1928|0|0|0|2f616e64726f69642d69636f6e2d33367833362e706e67|]
+Nov 12 18:46:07 10.71.54.2 u67821342-cory open "/android-icon-192x192.png" flags READ mode 0666
+Nov 12 18:46:07 10.71.54.2 u67821342-cory close "/android-icon-192x192.png" bytes read 8964 written 0
+Nov 12 18:46:07 10.71.54.2 u67821342-cory [10.71.54.2|get|0|8964|0|0|0|2f616e64726f69642d69636f6e2d313932783139322e706e67|]
+Nov 12 18:46:09 10.71.54.2 u67821342-cory open "/android-icon-144x144.png" flags READ mode 0666
+Nov 12 18:46:09 10.71.54.2 u67821342-cory close "/android-icon-144x144.png" bytes read 7318 written 0
+Nov 12 18:46:09 10.71.54.2 u67821342-cory [10.71.54.2|get|0|7318|0|0|0|2f616e64726f69642d69636f6e2d313434783134342e706e67|]
+Nov 12 18:46:11 10.71.54.2 u67821342-cory open "/about.html" flags READ mode 0666
+Nov 12 18:46:11 10.71.54.2 u67821342-cory close "/about.html" bytes read 13559 written 0
+Nov 12 18:46:11 10.71.54.2 u67821342-cory [10.71.54.2|get|0|13559|0|0|0|2f61626f75742e68746d6c|]
+Nov 12 18:46:13 10.71.54.2 u67821342-cory open "/BingSiteAuth.xml" flags READ mode 0666
+Nov 12 18:46:13 10.71.54.2 u67821342-cory close "/BingSiteAuth.xml" bytes read 85 written 0
+Nov 12 18:46:13 10.71.54.2 u67821342-cory [10.71.54.2|get|0|85|0|0|0|2f42696e6753697465417574682e786d6c|]
+Nov 12 18:46:17 10.71.54.2 u67821342-cory open "/.DS_Store" flags READ mode 0666
+Nov 12 18:46:17 10.71.54.2 u67821342-cory close "/.DS_Store" bytes read 14340 written 0
+Nov 12 18:46:17 10.71.54.2 u67821342-cory [10.71.54.2|get|0|14340|0|0|0|2f2e44535f53746f7265|]
+Nov 12 18:46:23 10.71.54.2 u67821342-cory open "/sass/bootstrap.scss" flags READ mode 0666
+Nov 12 18:46:23 10.71.54.2 u67821342-cory open "/sass/style.scss" flags READ mode 0666
+Nov 12 18:46:23 10.71.54.2 u67821342-cory close "/sass/bootstrap.scss" bytes read 1488 written 0
+Nov 12 18:46:23 10.71.54.2 u67821342-cory [10.71.54.2|get|0|1488|0|0|0|2f736173732f626f6f7473747261702e73637373|]
+Nov 12 18:46:23 10.71.54.2 u67821342-cory close "/sass/style.scss" bytes read 34897 written 0
+Nov 12 18:46:23 10.71.54.2 u67821342-cory [10.71.54.2|get|0|34897|0|0|0|2f736173732f7374796c652e73637373|]
+Nov 12 18:46:23 10.71.54.2 u67821342-cory open "/sass/_bootstrap-sprockets.scss" flags READ mode 0666
+Nov 12 18:46:23 10.71.54.2 u67821342-cory open "/sass/_bootstrap-mincer.scss" flags READ mode 0666
+Nov 12 18:46:24 10.71.54.2 u67821342-cory close "/sass/_bootstrap-sprockets.scss" bytes read 168 written 0
+Nov 12 18:46:24 10.71.54.2 u67821342-cory [10.71.54.2|get|1|168|0|0|0|2f736173732f5f626f6f7473747261702d7370726f636b6574732e73637373|]
+Nov 12 18:46:24 10.71.54.2 u67821342-cory close "/sass/_bootstrap-mincer.scss" bytes read 757 written 0
+Nov 12 18:46:24 10.71.54.2 u67821342-cory [10.71.54.2|get|1|757|0|0|0|2f736173732f5f626f6f7473747261702d6d696e6365722e73637373|]
+Nov 12 18:46:24 10.71.54.2 u67821342-cory open "/sass/.DS_Store" flags READ mode 0666
+Nov 12 18:46:24 10.71.54.2 u67821342-cory open "/sass/_bootstrap-compass.scss" flags READ mode 0666
+Nov 12 18:46:24 10.71.54.2 u67821342-cory close "/sass/_bootstrap-compass.scss" bytes read 178 written 0
+Nov 12 18:46:24 10.71.54.2 u67821342-cory [10.71.54.2|get|0|178|0|0|0|2f736173732f5f626f6f7473747261702d636f6d706173732e73637373|]
+Nov 12 18:46:24 10.71.54.2 u67821342-cory close "/sass/.DS_Store" bytes read 6148 written 0
+Nov 12 18:46:24 10.71.54.2 u67821342-cory [10.71.54.2|get|0|6148|0|0|0|2f736173732f2e44535f53746f7265|]
+Nov 12 18:46:24 10.71.54.2 u67821342-cory open "/sass/bootstrap/_wells.scss" flags READ mode 0666
+Nov 12 18:46:24 10.71.54.2 u67821342-cory open "/sass/bootstrap/_variables.scss" flags READ mode 0666
+Nov 12 18:46:24 10.71.54.2 u67821342-cory close "/sass/bootstrap/_wells.scss" bytes read 535 written 0
+Nov 12 18:46:24 10.71.54.2 u67821342-cory [10.71.54.2|get|0|535|0|0|0|2f736173732f626f6f7473747261702f5f77656c6c732e73637373|]
+Nov 12 18:46:24 10.71.54.2 u67821342-cory close "/sass/bootstrap/_variables.scss" bytes read 31175 written 0
+Nov 12 18:46:24 10.71.54.2 u67821342-cory [10.71.54.2|get|0|31175|0|0|0|2f736173732f626f6f7473747261702f5f7661726961626c65732e73637373|]
+Nov 12 18:46:24 10.71.54.2 u67821342-cory open "/sass/bootstrap/_utilities.scss" flags READ mode 0666
+Nov 12 18:46:25 10.71.54.2 u67821342-cory open "/sass/bootstrap/_type.scss" flags READ mode 0666
+Nov 12 18:46:25 10.71.54.2 u67821342-cory close "/sass/bootstrap/_utilities.scss" bytes read 765 written 0
+Nov 12 18:46:25 10.71.54.2 u67821342-cory [10.71.54.2|get|1|765|0|0|0|2f736173732f626f6f7473747261702f5f7574696c69746965732e73637373|]
+Nov 12 18:46:25 10.71.54.2 u67821342-cory close "/sass/bootstrap/_type.scss" bytes read 6146 written 0
+Nov 12 18:46:25 10.71.54.2 u67821342-cory [10.71.54.2|get|0|6146|0|0|0|2f736173732f626f6f7473747261702f5f747970652e73637373|]
+Nov 12 18:46:25 10.71.54.2 u67821342-cory open "/sass/bootstrap/_tooltip.scss" flags READ mode 0666
+Nov 12 18:46:25 10.71.54.2 u67821342-cory open "/sass/bootstrap/_thumbnails.scss" flags READ mode 0666
+Nov 12 18:46:25 10.71.54.2 u67821342-cory close "/sass/bootstrap/_tooltip.scss" bytes read 3007 written 0
+Nov 12 18:46:25 10.71.54.2 u67821342-cory [10.71.54.2|get|0|3007|0|0|0|2f736173732f626f6f7473747261702f5f746f6f6c7469702e73637373|]
+Nov 12 18:46:25 10.71.54.2 u67821342-cory close "/sass/bootstrap/_thumbnails.scss" bytes read 892 written 0
+Nov 12 18:46:25 10.71.54.2 u67821342-cory [10.71.54.2|get|0|892|0|0|0|2f736173732f626f6f7473747261702f5f7468756d626e61696c732e73637373|]
+Nov 12 18:46:25 10.71.54.2 u67821342-cory open "/sass/bootstrap/_theme.scss" flags READ mode 0666
+Nov 12 18:46:25 10.71.54.2 u67821342-cory open "/sass/bootstrap/_tables.scss" flags READ mode 0666
+Nov 12 18:46:25 10.71.54.2 u67821342-cory close "/sass/bootstrap/_theme.scss" bytes read 8558 written 0
+Nov 12 18:46:25 10.71.54.2 u67821342-cory [10.71.54.2|get|0|8558|0|0|0|2f736173732f626f6f7473747261702f5f7468656d652e73637373|]
+Nov 12 18:46:25 10.71.54.2 u67821342-cory close "/sass/bootstrap/_tables.scss" bytes read 4662 written 0
+Nov 12 18:46:25 10.71.54.2 u67821342-cory [10.71.54.2|get|0|4662|0|0|0|2f736173732f626f6f7473747261702f5f7461626c65732e73637373|]
+Nov 12 18:46:25 10.71.54.2 u67821342-cory open "/sass/bootstrap/_scaffolding.scss" flags READ mode 0666
+Nov 12 18:46:26 10.71.54.2 u67821342-cory open "/sass/bootstrap/_responsive-utilities.scss" flags READ mode 0666
+Nov 12 18:46:26 10.71.54.2 u67821342-cory close "/sass/bootstrap/_scaffolding.scss" bytes read 3032 written 0
+Nov 12 18:46:26 10.71.54.2 u67821342-cory [10.71.54.2|get|1|3032|0|0|0|2f736173732f626f6f7473747261702f5f73636166666f6c64696e672e73637373|]
+Nov 12 18:46:26 10.71.54.2 u67821342-cory close "/sass/bootstrap/_responsive-utilities.scss" bytes read 4409 written 0
+Nov 12 18:46:26 10.71.54.2 u67821342-cory [10.71.54.2|get|0|4409|0|0|0|2f736173732f626f6f7473747261702f5f726573706f6e736976652d7574696c69746965732e73637373|]
+Nov 12 18:46:26 10.71.54.2 u67821342-cory open "/sass/bootstrap/_responsive-embed.scss" flags READ mode 0666
+Nov 12 18:46:26 10.71.54.2 u67821342-cory open "/sass/bootstrap/_progress-bars.scss" flags READ mode 0666
+Nov 12 18:46:26 10.71.54.2 u67821342-cory close "/sass/bootstrap/_responsive-embed.scss" bytes read 546 written 0
+Nov 12 18:46:26 10.71.54.2 u67821342-cory [10.71.54.2|get|0|546|0|0|0|2f736173732f626f6f7473747261702f5f726573706f6e736976652d656d6265642e73637373|]
+Nov 12 18:46:26 10.71.54.2 u67821342-cory close "/sass/bootstrap/_progress-bars.scss" bytes read 1992 written 0
+Nov 12 18:46:26 10.71.54.2 u67821342-cory [10.71.54.2|get|0|1992|0|0|0|2f736173732f626f6f7473747261702f5f70726f67726573732d626172732e73637373|]
+Nov 12 18:46:26 10.71.54.2 u67821342-cory open "/sass/bootstrap/_print.scss" flags READ mode 0666
+Nov 12 18:46:26 10.71.54.2 u67821342-cory open "/sass/bootstrap/_popovers.scss" flags READ mode 0666
+Nov 12 18:46:26 10.71.54.2 u67821342-cory close "/sass/bootstrap/_popovers.scss" bytes read 3502 written 0
+Nov 12 18:46:26 10.71.54.2 u67821342-cory [10.71.54.2|get|0|3502|0|0|0|2f736173732f626f6f7473747261702f5f706f706f766572732e73637373|]
+Nov 12 18:46:26 10.71.54.2 u67821342-cory close "/sass/bootstrap/_print.scss" bytes read 1939 written 0
+Nov 12 18:46:26 10.71.54.2 u67821342-cory [10.71.54.2|get|0|1939|0|0|0|2f736173732f626f6f7473747261702f5f7072696e742e73637373|]
+Nov 12 18:46:26 10.71.54.2 u67821342-cory open "/sass/bootstrap/_pagination.scss" flags READ mode 0666
+Nov 12 18:46:26 10.71.54.2 u67821342-cory open "/sass/bootstrap/_panels.scss" flags READ mode 0666
+Nov 12 18:46:27 10.71.54.2 u67821342-cory close "/sass/bootstrap/_pagination.scss" bytes read 2091 written 0
+Nov 12 18:46:27 10.71.54.2 u67821342-cory [10.71.54.2|get|1|2091|0|0|0|2f736173732f626f6f7473747261702f5f706167696e6174696f6e2e73637373|]
+Nov 12 18:46:27 10.71.54.2 u67821342-cory close "/sass/bootstrap/_panels.scss" bytes read 6385 written 0
+Nov 12 18:46:27 10.71.54.2 u67821342-cory [10.71.54.2|get|1|6385|0|0|0|2f736173732f626f6f7473747261702f5f70616e656c732e73637373|]
+Nov 12 18:46:27 10.71.54.2 u67821342-cory open "/sass/bootstrap/_pager.scss" flags READ mode 0666
+Nov 12 18:46:27 10.71.54.2 u67821342-cory open "/sass/bootstrap/_normalize.scss" flags READ mode 0666
+Nov 12 18:46:27 10.71.54.2 u67821342-cory close "/sass/bootstrap/_pager.scss" bytes read 855 written 0
+Nov 12 18:46:27 10.71.54.2 u67821342-cory [10.71.54.2|get|0|855|0|0|0|2f736173732f626f6f7473747261702f5f70616765722e73637373|]
+Nov 12 18:46:27 10.71.54.2 u67821342-cory close "/sass/bootstrap/_normalize.scss" bytes read 7559 written 0
+Nov 12 18:46:27 10.71.54.2 u67821342-cory [10.71.54.2|get|0|7559|0|0|0|2f736173732f626f6f7473747261702f5f6e6f726d616c697a652e73637373|]
+Nov 12 18:46:27 10.71.54.2 u67821342-cory open "/sass/bootstrap/_navs.scss" flags READ mode 0666
+Nov 12 18:46:27 10.71.54.2 u67821342-cory open "/sass/bootstrap/_navbar.scss" flags READ mode 0666
+Nov 12 18:46:28 10.71.54.2 u67821342-cory close "/sass/bootstrap/_navs.scss" bytes read 4950 written 0
+Nov 12 18:46:28 10.71.54.2 u67821342-cory [10.71.54.2|get|1|4950|0|0|0|2f736173732f626f6f7473747261702f5f6e6176732e73637373|]
+Nov 12 18:46:28 10.71.54.2 u67821342-cory close "/sass/bootstrap/_navbar.scss" bytes read 14729 written 0
+Nov 12 18:46:28 10.71.54.2 u67821342-cory [10.71.54.2|get|1|14729|0|0|0|2f736173732f626f6f7473747261702f5f6e61766261722e73637373|]
+Nov 12 18:46:28 10.71.54.2 u67821342-cory open "/sass/bootstrap/_modals.scss" flags READ mode 0666
+Nov 12 18:46:28 10.71.54.2 u67821342-cory open "/sass/bootstrap/_mixins.scss" flags READ mode 0666
+Nov 12 18:46:29 10.71.54.2 u67821342-cory close "/sass/bootstrap/_modals.scss" bytes read 3612 written 0
+Nov 12 18:46:29 10.71.54.2 u67821342-cory [10.71.54.2|get|1|3612|0|0|0|2f736173732f626f6f7473747261702f5f6d6f64616c732e73637373|]
+Nov 12 18:46:29 10.71.54.2 u67821342-cory close "/sass/bootstrap/_mixins.scss" bytes read 986 written 0
+Nov 12 18:46:29 10.71.54.2 u67821342-cory [10.71.54.2|get|1|986|0|0|0|2f736173732f626f6f7473747261702f5f6d6978696e732e73637373|]
+Nov 12 18:46:29 10.71.54.2 u67821342-cory open "/sass/bootstrap/_media.scss" flags READ mode 0666
+Nov 12 18:46:29 10.71.54.2 u67821342-cory open "/sass/bootstrap/_list-group.scss" flags READ mode 0666
+Nov 12 18:46:30 10.71.54.2 u67821342-cory close "/sass/bootstrap/_media.scss" bytes read 900 written 0
+Nov 12 18:46:30 10.71.54.2 u67821342-cory [10.71.54.2|get|1|900|0|0|0|2f736173732f626f6f7473747261702f5f6d656469612e73637373|]
+Nov 12 18:46:30 10.71.54.2 u67821342-cory close "/sass/bootstrap/_list-group.scss" bytes read 3172 written 0
+Nov 12 18:46:30 10.71.54.2 u67821342-cory [10.71.54.2|get|1|3172|0|0|0|2f736173732f626f6f7473747261702f5f6c6973742d67726f75702e73637373|]
+Nov 12 18:46:30 10.71.54.2 u67821342-cory open "/sass/bootstrap/_labels.scss" flags READ mode 0666
+Nov 12 18:46:30 10.71.54.2 u67821342-cory open "/sass/bootstrap/_jumbotron.scss" flags READ mode 0666
+Nov 12 18:46:30 10.71.54.2 u67821342-cory close "/sass/bootstrap/_labels.scss" bytes read 1156 written 0
+Nov 12 18:46:30 10.71.54.2 u67821342-cory [10.71.54.2|get|0|1156|0|0|0|2f736173732f626f6f7473747261702f5f6c6162656c732e73637373|]
+Nov 12 18:46:30 10.71.54.2 u67821342-cory close "/sass/bootstrap/_jumbotron.scss" bytes read 1062 written 0
+Nov 12 18:46:30 10.71.54.2 u67821342-cory [10.71.54.2|get|0|1062|0|0|0|2f736173732f626f6f7473747261702f5f6a756d626f74726f6e2e73637373|]
+Nov 12 18:46:30 10.71.54.2 u67821342-cory open "/sass/bootstrap/_input-groups.scss" flags READ mode 0666
+Nov 12 18:46:30 10.71.54.2 u67821342-cory open "/sass/bootstrap/_grid.scss" flags READ mode 0666
+Nov 12 18:46:31 10.71.54.2 u67821342-cory close "/sass/bootstrap/_input-groups.scss" bytes read 4261 written 0
+Nov 12 18:46:31 10.71.54.2 u67821342-cory [10.71.54.2|get|1|4261|0|0|0|2f736173732f626f6f7473747261702f5f696e7075742d67726f7570732e73637373|]
+Nov 12 18:46:31 10.71.54.2 u67821342-cory close "/sass/bootstrap/_grid.scss" bytes read 1443 written 0
+Nov 12 18:46:31 10.71.54.2 u67821342-cory [10.71.54.2|get|1|1443|0|0|0|2f736173732f626f6f7473747261702f5f677269642e73637373|]
+Nov 12 18:46:31 10.71.54.2 u67821342-cory open "/sass/bootstrap/_glyphicons.scss" flags READ mode 0666
+Nov 12 18:46:31 10.71.54.2 u67821342-cory open "/sass/bootstrap/_forms.scss" flags READ mode 0666
+Nov 12 18:46:31 10.71.54.2 u67821342-cory close "/sass/bootstrap/_glyphicons.scss" bytes read 20444 written 0
+Nov 12 18:46:31 10.71.54.2 u67821342-cory [10.71.54.2|get|0|20444|0|0|0|2f736173732f626f6f7473747261702f5f676c79706869636f6e732e73637373|]
+Nov 12 18:46:31 10.71.54.2 u67821342-cory close "/sass/bootstrap/_forms.scss" bytes read 16080 written 0
+Nov 12 18:46:31 10.71.54.2 u67821342-cory [10.71.54.2|get|0|16080|0|0|0|2f736173732f626f6f7473747261702f5f666f726d732e73637373|]
+Nov 12 18:46:31 10.71.54.2 u67821342-cory open "/sass/bootstrap/_dropdowns.scss" flags READ mode 0666
+Nov 12 18:46:31 10.71.54.2 u67821342-cory open "/sass/bootstrap/_component-animations.scss" flags READ mode 0666
+Nov 12 18:46:31 10.71.54.2 u67821342-cory close "/sass/bootstrap/_dropdowns.scss" bytes read 4889 written 0
+Nov 12 18:46:31 10.71.54.2 u67821342-cory [10.71.54.2|get|0|4889|0|0|0|2f736173732f626f6f7473747261702f5f64726f70646f776e732e73637373|]
+Nov 12 18:46:31 10.71.54.2 u67821342-cory close "/sass/bootstrap/_component-animations.scss" bytes read 819 written 0
+Nov 12 18:46:31 10.71.54.2 u67821342-cory [10.71.54.2|get|0|819|0|0|0|2f736173732f626f6f7473747261702f5f636f6d706f6e656e742d616e696d6174696f6e732e73637373|]
+Nov 12 18:46:31 10.71.54.2 u67821342-cory open "/sass/bootstrap/_code.scss" flags READ mode 0666
+Nov 12 18:46:31 10.71.54.2 u67821342-cory open "/sass/bootstrap/_close.scss" flags READ mode 0666
+Nov 12 18:46:31 10.71.54.2 u67821342-cory close "/sass/bootstrap/_code.scss" bytes read 1401 written 0
+Nov 12 18:46:31 10.71.54.2 u67821342-cory [10.71.54.2|get|0|1401|0|0|0|2f736173732f626f6f7473747261702f5f636f64652e73637373|]
+Nov 12 18:46:32 10.71.54.2 u67821342-cory close "/sass/bootstrap/_close.scss" bytes read 815 written 0
+Nov 12 18:46:32 10.71.54.2 u67821342-cory [10.71.54.2|get|1|815|0|0|0|2f736173732f626f6f7473747261702f5f636c6f73652e73637373|]
+Nov 12 18:46:32 10.71.54.2 u67821342-cory open "/sass/bootstrap/_carousel.scss" flags READ mode 0666
+Nov 12 18:46:32 10.71.54.2 u67821342-cory open "/sass/bootstrap/_buttons.scss" flags READ mode 0666
+Nov 12 18:46:32 10.71.54.2 u67821342-cory close "/sass/bootstrap/_carousel.scss" bytes read 5481 written 0
+Nov 12 18:46:32 10.71.54.2 u67821342-cory [10.71.54.2|get|0|5481|0|0|0|2f736173732f626f6f7473747261702f5f6361726f7573656c2e73637373|]
+Nov 12 18:46:32 10.71.54.2 u67821342-cory close "/sass/bootstrap/_buttons.scss" bytes read 3819 written 0
+Nov 12 18:46:32 10.71.54.2 u67821342-cory [10.71.54.2|get|0|3819|0|0|0|2f736173732f626f6f7473747261702f5f627574746f6e732e73637373|]
+Nov 12 18:46:32 10.71.54.2 u67821342-cory open "/sass/bootstrap/_button-groups.scss" flags READ mode 0666
+Nov 12 18:46:32 10.71.54.2 u67821342-cory open "/sass/bootstrap/_badges.scss" flags READ mode 0666
+Nov 12 18:46:32 10.71.54.2 u67821342-cory close "/sass/bootstrap/_button-groups.scss" bytes read 5737 written 0
+Nov 12 18:46:32 10.71.54.2 u67821342-cory [10.71.54.2|get|0|5737|0|0|0|2f736173732f626f6f7473747261702f5f627574746f6e2d67726f7570732e73637373|]
+Nov 12 18:46:32 10.71.54.2 u67821342-cory close "/sass/bootstrap/_badges.scss" bytes read 1228 written 0
+Nov 12 18:46:32 10.71.54.2 u67821342-cory [10.71.54.2|get|0|1228|0|0|0|2f736173732f626f6f7473747261702f5f6261646765732e73637373|]
+Nov 12 18:46:32 10.71.54.2 u67821342-cory open "/sass/bootstrap/_breadcrumbs.scss" flags READ mode 0666
+Nov 12 18:46:32 10.71.54.2 u67821342-cory open "/sass/bootstrap/_alerts.scss" flags READ mode 0666
+Nov 12 18:46:32 10.71.54.2 u67821342-cory close "/sass/bootstrap/_breadcrumbs.scss" bytes read 595 written 0
+Nov 12 18:46:32 10.71.54.2 u67821342-cory [10.71.54.2|get|0|595|0|0|0|2f736173732f626f6f7473747261702f5f62726561646372756d62732e73637373|]
+Nov 12 18:46:32 10.71.54.2 u67821342-cory close "/sass/bootstrap/_alerts.scss" bytes read 1550 written 0
+Nov 12 18:46:32 10.71.54.2 u67821342-cory [10.71.54.2|get|0|1550|0|0|0|2f736173732f626f6f7473747261702f5f616c657274732e73637373|]
+Nov 12 18:46:32 10.71.54.2 u67821342-cory open "/sass/bootstrap/.DS_Store" flags READ mode 0666
+Nov 12 18:46:33 10.71.54.2 u67821342-cory close "/sass/bootstrap/.DS_Store" bytes read 10244 written 0
+Nov 12 18:46:33 10.71.54.2 u67821342-cory [10.71.54.2|get|1|10244|0|0|0|2f736173732f626f6f7473747261702f2e44535f53746f7265|]
+Nov 12 18:46:33 10.71.54.2 u67821342-cory open "/sass/bootstrap/mixins/_vendor-prefixes.scss" flags READ mode 0666
+Nov 12 18:46:33 10.71.54.2 u67821342-cory open "/sass/bootstrap/mixins/_text-overflow.scss" flags READ mode 0666
+Nov 12 18:46:33 10.71.54.2 u67821342-cory close "/sass/bootstrap/mixins/_vendor-prefixes.scss" bytes read 6642 written 0
+Nov 12 18:46:33 10.71.54.2 u67821342-cory [10.71.54.2|get|0|6642|0|0|0|2f736173732f626f6f7473747261702f6d6978696e732f5f76656e646f722d70726566697865732e73637373|]
+Nov 12 18:46:33 10.71.54.2 u67821342-cory close "/sass/bootstrap/mixins/_text-overflow.scss" bytes read 168 written 0
+Nov 12 18:46:33 10.71.54.2 u67821342-cory [10.71.54.2|get|0|168|0|0|0|2f736173732f626f6f7473747261702f6d6978696e732f5f746578742d6f766572666c6f772e73637373|]
+Nov 12 18:46:33 10.71.54.2 u67821342-cory open "/sass/bootstrap/mixins/_text-emphasis.scss" flags READ mode 0666
+Nov 12 18:46:33 10.71.54.2 u67821342-cory open "/sass/bootstrap/mixins/_table-row.scss" flags READ mode 0666
+Nov 12 18:46:33 10.71.54.2 u67821342-cory close "/sass/bootstrap/mixins/_text-emphasis.scss" bytes read 210 written 0
+Nov 12 18:46:33 10.71.54.2 u67821342-cory [10.71.54.2|get|0|210|0|0|0|2f736173732f626f6f7473747261702f6d6978696e732f5f746578742d656d7068617369732e73637373|]
+Nov 12 18:46:33 10.71.54.2 u67821342-cory close "/sass/bootstrap/mixins/_table-row.scss" bytes read 715 written 0
+Nov 12 18:46:33 10.71.54.2 u67821342-cory [10.71.54.2|get|0|715|0|0|0|2f736173732f626f6f7473747261702f6d6978696e732f5f7461626c652d726f772e73637373|]
+Nov 12 18:46:33 10.71.54.2 u67821342-cory open "/sass/bootstrap/mixins/_size.scss" flags READ mode 0666
+Nov 12 18:46:34 10.71.54.2 u67821342-cory open "/sass/bootstrap/mixins/_tab-focus.scss" flags READ mode 0666
+Nov 12 18:46:34 10.71.54.2 u67821342-cory close "/sass/bootstrap/mixins/_size.scss" bytes read 147 written 0
+Nov 12 18:46:34 10.71.54.2 u67821342-cory [10.71.54.2|get|1|147|0|0|0|2f736173732f626f6f7473747261702f6d6978696e732f5f73697a652e73637373|]
+Nov 12 18:46:34 10.71.54.2 u67821342-cory open "/sass/bootstrap/mixins/_responsive-visibility.scss" flags READ mode 0666
+Nov 12 18:46:34 10.71.54.2 u67821342-cory close "/sass/bootstrap/mixins/_tab-focus.scss" bytes read 165 written 0
+Nov 12 18:46:34 10.71.54.2 u67821342-cory [10.71.54.2|get|0|165|0|0|0|2f736173732f626f6f7473747261702f6d6978696e732f5f7461622d666f6375732e73637373|]
+Nov 12 18:46:34 10.71.54.2 u67821342-cory close "/sass/bootstrap/mixins/_responsive-visibility.scss" bytes read 514 written 0
+Nov 12 18:46:34 10.71.54.2 u67821342-cory [10.71.54.2|get|0|514|0|0|0|2f736173732f626f6f7473747261702f6d6978696e732f5f726573706f6e736976652d7669736962696c6974792e73637373|]
+Nov 12 18:46:34 10.71.54.2 u67821342-cory open "/sass/bootstrap/mixins/_resize.scss" flags READ mode 0666
+Nov 12 18:46:34 10.71.54.2 u67821342-cory open "/sass/bootstrap/mixins/_reset-text.scss" flags READ mode 0666
+Nov 12 18:46:34 10.71.54.2 u67821342-cory close "/sass/bootstrap/mixins/_resize.scss" bytes read 202 written 0
+Nov 12 18:46:34 10.71.54.2 u67821342-cory [10.71.54.2|get|0|202|0|0|0|2f736173732f626f6f7473747261702f6d6978696e732f5f726573697a652e73637373|]
+Nov 12 18:46:34 10.71.54.2 u67821342-cory close "/sass/bootstrap/mixins/_reset-text.scss" bytes read 476 written 0
+Nov 12 18:46:34 10.71.54.2 u67821342-cory [10.71.54.2|get|0|476|0|0|0|2f736173732f626f6f7473747261702f6d6978696e732f5f72657365742d746578742e73637373|]
+Nov 12 18:46:34 10.71.54.2 u67821342-cory open "/sass/bootstrap/mixins/_reset-filter.scss" flags READ mode 0666
+Nov 12 18:46:34 10.71.54.2 u67821342-cory close "/sass/bootstrap/mixins/_reset-filter.scss" bytes read 246 written 0
+Nov 12 18:46:34 10.71.54.2 u67821342-cory [10.71.54.2|get|0|246|0|0|0|2f736173732f626f6f7473747261702f6d6978696e732f5f72657365742d66696c7465722e73637373|]
+Nov 12 18:46:34 10.71.54.2 u67821342-cory open "/sass/bootstrap/mixins/_progress-bar.scss" flags READ mode 0666
+Nov 12 18:46:35 10.71.54.2 u67821342-cory open "/sass/bootstrap/mixins/_panels.scss" flags READ mode 0666
+Nov 12 18:46:35 10.71.54.2 u67821342-cory close "/sass/bootstrap/mixins/_progress-bar.scss" bytes read 200 written 0
+Nov 12 18:46:35 10.71.54.2 u67821342-cory [10.71.54.2|get|1|200|0|0|0|2f736173732f626f6f7473747261702f6d6978696e732f5f70726f67726573732d6261722e73637373|]
+Nov 12 18:46:35 10.71.54.2 u67821342-cory close "/sass/bootstrap/mixins/_panels.scss" bytes read 543 written 0
+Nov 12 18:46:35 10.71.54.2 u67821342-cory [10.71.54.2|get|0|543|0|0|0|2f736173732f626f6f7473747261702f6d6978696e732f5f70616e656c732e73637373|]
+Nov 12 18:46:35 10.71.54.2 u67821342-cory open "/sass/bootstrap/mixins/_pagination.scss" flags READ mode 0666
+Nov 12 18:46:35 10.71.54.2 u67821342-cory close "/sass/bootstrap/mixins/_pagination.scss" bytes read 507 written 0
+Nov 12 18:46:35 10.71.54.2 u67821342-cory [10.71.54.2|get|0|507|0|0|0|2f736173732f626f6f7473747261702f6d6978696e732f5f706167696e6174696f6e2e73637373|]
+Nov 12 18:46:35 10.71.54.2 u67821342-cory open "/sass/bootstrap/mixins/_opacity.scss" flags READ mode 0666
+Nov 12 18:46:35 10.71.54.2 u67821342-cory open "/sass/bootstrap/mixins/_nav-vertical-align.scss" flags READ mode 0666
+Nov 12 18:46:35 10.71.54.2 u67821342-cory close "/sass/bootstrap/mixins/_opacity.scss" bytes read 149 written 0
+Nov 12 18:46:35 10.71.54.2 u67821342-cory [10.71.54.2|get|0|149|0|0|0|2f736173732f626f6f7473747261702f6d6978696e732f5f6f7061636974792e73637373|]
+Nov 12 18:46:35 10.71.54.2 u67821342-cory close "/sass/bootstrap/mixins/_nav-vertical-align.scss" bytes read 370 written 0
+Nov 12 18:46:35 10.71.54.2 u67821342-cory [10.71.54.2|get|0|370|0|0|0|2f736173732f626f6f7473747261702f6d6978696e732f5f6e61762d766572746963616c2d616c69676e2e73637373|]
+Nov 12 18:46:35 10.71.54.2 u67821342-cory open "/sass/bootstrap/mixins/_nav-divider.scss" flags READ mode 0666
+Nov 12 18:46:35 10.71.54.2 u67821342-cory close "/sass/bootstrap/mixins/_nav-divider.scss" bytes read 238 written 0
+Nov 12 18:46:35 10.71.54.2 u67821342-cory [10.71.54.2|get|0|238|0|0|0|2f736173732f626f6f7473747261702f6d6978696e732f5f6e61762d646976696465722e73637373|]
+Nov 12 18:46:35 10.71.54.2 u67821342-cory open "/sass/bootstrap/mixins/_labels.scss" flags READ mode 0666
+Nov 12 18:46:35 10.71.54.2 u67821342-cory open "/sass/bootstrap/mixins/_list-group.scss" flags READ mode 0666
+Nov 12 18:46:35 10.71.54.2 u67821342-cory close "/sass/bootstrap/mixins/_labels.scss" bytes read 167 written 0
+Nov 12 18:46:35 10.71.54.2 u67821342-cory [10.71.54.2|get|0|167|0|0|0|2f736173732f626f6f7473747261702f6d6978696e732f5f6c6162656c732e73637373|]
+Nov 12 18:46:36 10.71.54.2 u67821342-cory close "/sass/bootstrap/mixins/_list-group.scss" bytes read 672 written 0
+Nov 12 18:46:36 10.71.54.2 u67821342-cory [10.71.54.2|get|1|672|0|0|0|2f736173732f626f6f7473747261702f6d6978696e732f5f6c6973742d67726f75702e73637373|]
+Nov 12 18:46:36 10.71.54.2 u67821342-cory open "/sass/bootstrap/mixins/_image.scss" flags READ mode 0666
+Nov 12 18:46:36 10.71.54.2 u67821342-cory open "/sass/bootstrap/mixins/_hide-text.scss" flags READ mode 0666
+Nov 12 18:46:36 10.71.54.2 u67821342-cory close "/sass/bootstrap/mixins/_image.scss" bytes read 1208 written 0
+Nov 12 18:46:36 10.71.54.2 u67821342-cory [10.71.54.2|get|0|1208|0|0|0|2f736173732f626f6f7473747261702f6d6978696e732f5f696d6167652e73637373|]
+Nov 12 18:46:36 10.71.54.2 u67821342-cory close "/sass/bootstrap/mixins/_hide-text.scss" bytes read 589 written 0
+Nov 12 18:46:36 10.71.54.2 u67821342-cory [10.71.54.2|get|0|589|0|0|0|2f736173732f626f6f7473747261702f6d6978696e732f5f686964652d746578742e73637373|]
+Nov 12 18:46:36 10.71.54.2 u67821342-cory open "/sass/bootstrap/mixins/_grid.scss" flags READ mode 0666
+Nov 12 18:46:36 10.71.54.2 u67821342-cory open "/sass/bootstrap/mixins/_grid-framework.scss" flags READ mode 0666
+Nov 12 18:46:36 10.71.54.2 u67821342-cory close "/sass/bootstrap/mixins/_grid.scss" bytes read 3203 written 0
+Nov 12 18:46:36 10.71.54.2 u67821342-cory [10.71.54.2|get|0|3203|0|0|0|2f736173732f626f6f7473747261702f6d6978696e732f5f677269642e73637373|]
+Nov 12 18:46:36 10.71.54.2 u67821342-cory close "/sass/bootstrap/mixins/_grid-framework.scss" bytes read 2360 written 0
+Nov 12 18:46:36 10.71.54.2 u67821342-cory [10.71.54.2|get|0|2360|0|0|0|2f736173732f626f6f7473747261702f6d6978696e732f5f677269642d6672616d65776f726b2e73637373|]
+Nov 12 18:46:36 10.71.54.2 u67821342-cory open "/sass/bootstrap/mixins/_gradients.scss" flags READ mode 0666
+Nov 12 18:46:36 10.71.54.2 u67821342-cory open "/sass/bootstrap/mixins/_forms.scss" flags READ mode 0666
+Nov 12 18:46:36 10.71.54.2 u67821342-cory close "/sass/bootstrap/mixins/_gradients.scss" bytes read 4392 written 0
+Nov 12 18:46:36 10.71.54.2 u67821342-cory [10.71.54.2|get|0|4392|0|0|0|2f736173732f626f6f7473747261702f6d6978696e732f5f6772616469656e74732e73637373|]
+Nov 12 18:46:36 10.71.54.2 u67821342-cory close "/sass/bootstrap/mixins/_forms.scss" bytes read 2771 written 0
+Nov 12 18:46:36 10.71.54.2 u67821342-cory [10.71.54.2|get|0|2771|0|0|0|2f736173732f626f6f7473747261702f6d6978696e732f5f666f726d732e73637373|]
+Nov 12 18:46:37 10.71.54.2 u67821342-cory open "/sass/bootstrap/mixins/_clearfix.scss" flags READ mode 0666
+Nov 12 18:46:37 10.71.54.2 u67821342-cory open "/sass/bootstrap/mixins/_center-block.scss" flags READ mode 0666
+Nov 12 18:46:37 10.71.54.2 u67821342-cory close "/sass/bootstrap/mixins/_clearfix.scss" bytes read 611 written 0
+Nov 12 18:46:37 10.71.54.2 u67821342-cory [10.71.54.2|get|0|611|0|0|0|2f736173732f626f6f7473747261702f6d6978696e732f5f636c6561726669782e73637373|]
+Nov 12 18:46:37 10.71.54.2 u67821342-cory close "/sass/bootstrap/mixins/_center-block.scss" bytes read 126 written 0
+Nov 12 18:46:37 10.71.54.2 u67821342-cory [10.71.54.2|get|0|126|0|0|0|2f736173732f626f6f7473747261702f6d6978696e732f5f63656e7465722d626c6f636b2e73637373|]
+Nov 12 18:46:37 10.71.54.2 u67821342-cory open "/sass/bootstrap/mixins/_buttons.scss" flags READ mode 0666
+Nov 12 18:46:37 10.71.54.2 u67821342-cory open "/sass/bootstrap/mixins/_border-radius.scss" flags READ mode 0666
+Nov 12 18:46:37 10.71.54.2 u67821342-cory close "/sass/bootstrap/mixins/_buttons.scss" bytes read 1488 written 0
+Nov 12 18:46:37 10.71.54.2 u67821342-cory [10.71.54.2|get|0|1488|0|0|0|2f736173732f626f6f7473747261702f6d6978696e732f5f627574746f6e732e73637373|]
+Nov 12 18:46:37 10.71.54.2 u67821342-cory close "/sass/bootstrap/mixins/_border-radius.scss" bytes read 492 written 0
+Nov 12 18:46:37 10.71.54.2 u67821342-cory [10.71.54.2|get|0|492|0|0|0|2f736173732f626f6f7473747261702f6d6978696e732f5f626f726465722d7261646975732e73637373|]
+Nov 12 18:46:37 10.71.54.2 u67821342-cory open "/sass/bootstrap/mixins/_background-variant.scss" flags READ mode 0666
+Nov 12 18:46:37 10.71.54.2 u67821342-cory open "/sass/bootstrap/mixins/_alerts.scss" flags READ mode 0666
+Nov 12 18:46:37 10.71.54.2 u67821342-cory close "/sass/bootstrap/mixins/_background-variant.scss" bytes read 233 written 0
+Nov 12 18:46:37 10.71.54.2 u67821342-cory [10.71.54.2|get|0|233|0|0|0|2f736173732f626f6f7473747261702f6d6978696e732f5f6261636b67726f756e642d76617269616e742e73637373|]
+Nov 12 18:46:37 10.71.54.2 u67821342-cory close "/sass/bootstrap/mixins/_alerts.scss" bytes read 263 written 0
+Nov 12 18:46:37 10.71.54.2 u67821342-cory [10.71.54.2|get|0|263|0|0|0|2f736173732f626f6f7473747261702f6d6978696e732f5f616c657274732e73637373|]
+Nov 12 18:47:37 10.71.54.2 u67821342-cory Connection closed by 10.71.54.2
+Nov 12 18:47:37 10.71.54.2 u67821342-cory session closed for local user u67821342-cory from [10.71.54.2]
+Nov 12 18:47:47 10.71.54.2 u67821342-cory Connection closed by 10.71.54.2
+Nov 12 18:47:47 10.71.54.2 u67821342-cory session closed for local user u67821342-cory from [10.71.54.2]
+Nov 12 18:48:11 10.71.54.2 u67821342-cory sent status No such file
+Nov 12 18:48:11 10.71.54.2 u67821342-cory Connection from 10.71.54.2 port 19214 on 74.208.59.1 port 22
+Nov 12 18:48:12 10.71.54.2 u67821342-cory Failed publickey for u67821342-cory from 10.71.54.2 port 19214 ssh2: RSA 25:94:e6:db:76:e9:c5:00:b6:9b:8d:1c:06:e4:f9:0c
+Nov 12 18:48:11 10.71.54.2 u67821342-cory Connection from 10.71.54.2 port 19216 on 74.208.59.1 port 22
+Nov 12 18:48:12 10.71.54.2 u67821342-cory Failed publickey for u67821342-cory from 10.71.54.2 port 19216 ssh2: RSA 25:94:e6:db:76:e9:c5:00:b6:9b:8d:1c:06:e4:f9:0c
+Nov 12 18:48:12 10.71.54.2 u67821342-cory Accepted password for u67821342-cory from 10.71.54.2 port 19214 ssh2
+Nov 12 18:48:12 10.71.54.2 u67821342-cory Accepted password for u67821342-cory from 10.71.54.2 port 19216 ssh2
+Nov 12 18:48:12 10.71.54.2 u67821342-cory Starting session: subsystem 'sftp' for u67821342-cory from 10.71.54.2 port 19214
+Nov 12 18:48:12 10.71.54.2 u67821342-cory Starting session: subsystem 'sftp' for u67821342-cory from 10.71.54.2 port 19216
+Nov 12 18:48:12 10.71.54.2 u67821342-cory session opened for local user u67821342-cory from [10.71.54.2]
+Nov 12 18:48:12 10.71.54.2 u67821342-cory session opened for local user u67821342-cory from [10.71.54.2]
+Nov 12 18:48:12 10.71.54.2 u67821342-cory open "/logs/access.log.46.1" flags READ mode 0666
+Nov 12 18:48:12 10.71.54.2 u67821342-cory open "/logs/access.log.45.2.gz" flags READ mode 0666
+Nov 12 18:48:13 10.71.54.2 u67821342-cory close "/logs/access.log.45.2.gz" bytes read 6702 written 0
+Nov 12 18:48:13 10.71.54.2 u67821342-cory [10.71.54.2|get|1|6702|0|0|0|2f6c6f67732f6163636573732e6c6f672e34352e322e677a|]
+Nov 12 18:48:13 10.71.54.2 u67821342-cory close "/logs/access.log.46.1" bytes read 72082 written 0
+Nov 12 18:48:13 10.71.54.2 u67821342-cory [10.71.54.2|get|1|72082|0|0|0|2f6c6f67732f6163636573732e6c6f672e34362e31|]
+Nov 12 18:48:13 10.71.54.2 u67821342-cory open "/logs/access.log.41.gz" flags READ mode 0666
+Nov 12 18:48:13 10.71.54.2 u67821342-cory open "/logs/access.log.45.4.gz" flags READ mode 0666
+Nov 12 18:48:13 10.71.54.2 u67821342-cory close "/logs/access.log.45.4.gz" bytes read 6353 written 0
+Nov 12 18:48:13 10.71.54.2 u67821342-cory [10.71.54.2|get|0|6353|0|0|0|2f6c6f67732f6163636573732e6c6f672e34352e342e677a|]
+Nov 12 18:48:13 10.71.54.2 u67821342-cory close "/logs/access.log.41.gz" bytes read 33062 written 0
+Nov 12 18:48:13 10.71.54.2 u67821342-cory [10.71.54.2|get|0|33062|0|0|0|2f6c6f67732f6163636573732e6c6f672e34312e677a|]
+Nov 12 18:48:13 10.71.54.2 u67821342-cory open "/logs/access.log.45.1.gz" flags READ mode 0666
+Nov 12 18:48:13 10.71.54.2 u67821342-cory open "/logs/access.log.43.gz" flags READ mode 0666
+Nov 12 18:48:13 10.71.54.2 u67821342-cory close "/logs/access.log.45.1.gz" bytes read 6436 written 0
+Nov 12 18:48:13 10.71.54.2 u67821342-cory [10.71.54.2|get|0|6436|0|0|0|2f6c6f67732f6163636573732e6c6f672e34352e312e677a|]
+Nov 12 18:48:13 10.71.54.2 u67821342-cory close "/logs/access.log.43.gz" bytes read 28698 written 0
+Nov 12 18:48:13 10.71.54.2 u67821342-cory [10.71.54.2|get|0|28698|0|0|0|2f6c6f67732f6163636573732e6c6f672e34332e677a|]
+Nov 12 18:48:13 10.71.54.2 u67821342-cory open "/logs/access.log.39.gz" flags READ mode 0666
+Nov 12 18:48:13 10.71.54.2 u67821342-cory open "/logs/sftp.log" flags READ mode 0666

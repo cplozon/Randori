@@ -1,0 +1,100 @@
+
+/* CSS Components Document FlyingFeet */
+
+/* -----------------------------------------
+:: .thumb
+----------------------------------------- */
+.thumb {
+	padding: 0px;
+	position: relative;
+	display: inline-block;
+	margin: 5px;
+}
+
+.thm-img img {
+	width: 100%;
+}
+
+.thumb.margin0 {
+	margin: 0px;
+}
+
+/*thumb background animation marching ants*/
+.thumb:hover .thumb-hover, .thumb:active .thumb-hover {
+	animation: thumbbg 0.3s linear infinite;
+}
+
+.thumb-hover {
+	position: absolute;
+	top: 0;
+	left: 0;
+	right: 0;
+	bottom: 0;
+	border-radius: 0px;
+	box-sizing: border-box;
+	opacity: 1;
+	transition: opacity 0.3s ease;
+	/*
+	background-size: 10px 15px;
+	background-image: linear-gradient(45deg, rgba(0, 0, 0, 0.1) 10%, rgba(0, 0, 0, 0) 10%, rgba(0, 0, 0, 0) 20%, rgba(0, 0, 0, 0.1) 20%, rgba(0, 0, 0, 0.1) 30%, rgba(0, 0, 0, 0) 30%, rgba(0, 0, 0, 0) 40%, rgba(0, 0, 0, 0.1) 40%, rgba(0, 0, 0, 0.1) 50%, rgba(0, 0, 0, 0) 50%, rgba(0, 0, 0, 0) 60%, rgba(0, 0, 0, 0.1) 60%, rgba(0, 0, 0, 0.1) 70%, rgba(0, 0, 0, 0) 70%, rgba(0, 0, 0, 0) 80%, rgba(0, 0, 0, 0.1) 80%, rgba(0, 0, 0, 0.1) 90%, rgba(0, 0, 0, 0) 90%, rgba(0, 0, 0, 0) );
+	*/
+}
+
+/*thumb inner content container*/
+.thumb-inner {
+	background: #ffffff;
+	border: 1px solid rgba(170,170,170,0.4);
+	padding: 5px;
+	position: relative;
+	border-radius: 0px;
+	box-sizing: border-box;
+	transition: all .5s ease;
+	overflow: hidden;
+}
+
+.thumb-inner:hover {
+	background: #ffffff;
+}
+
+/* -----------------------------------------
+:: .thumb.color
+----------------------------------------- */
+.thumb.color .thumb-inner {
+	border: 1px solid rgba(36,36,36, 0.50);
+	box-shadow: inset 0px 15px 0px 0px rgba(36,36,36, 0.50);
+
+}
+
+.thumb.color .thumb-inner:hover {
+	border: 1px solid rgba(36,36,36, 0.90);
+	box-shadow: inset 0px 15px 0px 0px rgba(36,36,36, 0.90);
+}
+
+/* -----------------------------------------
+:: .thumb.dark
+----------------------------------------- */
+.thumb.dark .thumb-hover {
+	border-radius: 3px;
+	/*
+	background-image: linear-gradient(45deg, rgba(0, 0, 0, 1.0) 10%, rgba(0, 0, 0, 0) 10%, rgba(0, 0, 0, 0) 20%, rgba(0, 0, 0, 1.0) 20%, rgba(0, 0, 0, 1.0) 30%, rgba(0, 0, 0, 0) 30%, rgba(0, 0, 0, 0) 40%, rgba(0, 0, 0, 1.0) 40%, rgba(0, 0, 0, 1.0) 50%, rgba(0, 0, 0, 0) 50%, rgba(0, 0, 0, 0) 60%, rgba(0, 0, 0, 1.0) 60%, rgba(0, 0, 0, 1.0) 70%, rgba(0, 0, 0, 0) 70%, rgba(0, 0, 0, 0) 80%, rgba(0, 0, 0, 1.0) 80%, rgba(0, 0, 0, 1.0) 90%, rgba(0, 0, 0, 0) 90%, rgba(0, 0, 0, 0) );*/
+}
+
+.thumb.dark .thumb-inner {
+	background: rgba(36,36,36, 1.0);
+	border: 0px solid #121212;
+	padding: 4px;
+}
+
+/* apply a box layout model to all elements */
+*, *:before, *:after {
+-moz-box-sizing: border-box;
+-webkit-box-sizing: border-box;
+box-sizing: border-box;
+
+}
+
+html *{
+-webkit-font-smoothing: antialiased;
+-moz-osx-font-smoothing: grayscale;
+}
+
