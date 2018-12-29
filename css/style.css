@@ -716,6 +716,9 @@ h1, h2, h3, h4, h5, h6, figure {
 
 .classes .desc {
   padding: 1.5em 0; }
+#sidepod {
+	padding-top: 1.5em; 
+}
   .classes .desc h3 {
     font-size: 20px;
     text-transform: uppercase;
